@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skdys
+- 👀 I’m interested in quantum nanoelectronics
+- 🌱 I’m currently learning quantum computing
+- 💞️ I’m looking to collaborate on computational physics projects
+- 📫 How to reach me: institutional email address
