@@ -8,10 +8,10 @@
 - 📫 If you want to get in touch you can use my [instituional email address](mailto:andrea.maiani@nbi.ku.dk) or you can drop a message on [LinkedIn](https://www.linkedin.com/in/andrea-maiani/)
 
 <br />
-<p align="center" style="font-weight:bold"> 🔨 <b> Interesting proejcts here </b> <p>
+<p align="center" style="font-weight:bold"> 🔨 <b> Interesting proejcts </b> <p>
 
 * [`quantumwave`](https://github.com/maiani/quantumwave) : Simulator of the propagation of a wavepacket according to Schrodinger equation. 
 * [`thermalspin`](https://github.com/maiani/thermalspin) : A Monte Carlo simulator for the classical Heisenberg model and variations.
-* `mepgl` : a CUDA-accelerated implementation of the gauged string method for the study of vortex nucleation processes in superconductors. You can read more [here](https://arxiv.org/abs/1911.09513) and [here](https://arxiv.org/abs/2111.01061) (not released yet, reach me if you are interesed!). 
+* [`mepgl`](https://github.com/maiani/mepgl) : a CUDA-accelerated implementation of the gauged string method for the study of vortex nucleation processes in superconductors. You can read more [here](https://arxiv.org/abs/1911.09513) and [here](https://arxiv.org/abs/2111.01061). 
 
 Cheers 🚀
